@@ -13,7 +13,7 @@
 - :computer: I'm a competitive programmer in C#, Java, and JavaScript.
 - :student: I'm currently studying web application development with React.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://cdc-portfolio.netlify.app/)).
+- :boom: You can visit [MY WEBSITE]([http://cdc-portfolio.netlify.app/]).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
