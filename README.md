@@ -13,7 +13,6 @@
 - :computer: I'm a competitive programmer in C#, Java, and JavaScript.
 - :student: I'm currently studying web application development with React.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/cristian-diaz-374039180).
 - :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://cdc-portfolio.netlify.app/)).
 <br>
 
