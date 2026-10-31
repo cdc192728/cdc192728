@@ -33,7 +33,7 @@
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
   </a>
   &emsp;
@@ -66,32 +66,32 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+    <a href="https://www.adobe.com/co/products/illustrator.html" target="_blank"><img alt="Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
+    <a href="https://www.blender.org/" target="_blank"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 	&emsp;
-    <a href="#"><img alt="Zbrush" src="https://img.shields.io/badge/Zbrush-orange?style=for-the-badge&logo=ZBrush&logoColor=white"></a>
+    <a href="https://www.maxon.net/en/zbrush/" target="_blank"><img alt="Zbrush" src="https://img.shields.io/badge/Zbrush-orange?style=for-the-badge&logo=ZBrush&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Susbtance painter" src="https://img.shields.io/badge/Substance%20Painter-red?style=for-the-badge&logo=susbtance%20painter&logoColor=white"></a>
+	<a href="https://www.adobe.com/products/substance3d.html" target="_blank"><img alt="Susbtance painter" src="https://img.shields.io/badge/Substance%20Painter-red?style=for-the-badge&logo=susbtance%20painter&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="Marmoset" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
+	<a href="https://marmoset.co/" target="_blank"><img alt="Marmoset" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
 	&emsp;
-	<a href="#"><img alt="Photshop" src="https://img.shields.io/badge/Marmoset-white?style=for-the-badge&logo=Marmoset&logoColor=black"></a>
+	<a href="https://www.adobe.com/co/products/photoshop.html" target="_blank"><img alt="Photshop" src="https://img.shields.io/badge/Marmoset-white?style=for-the-badge&logo=Marmoset&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+    <a href="https://unity.com/es" target="_blank"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com/?_exp_home=1a03665a82" target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Net Beans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
+    <a href="https://netbeans.apache.org/front/main/index.html" target="_blank"><img alt="Net Beans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
   &emsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
      <img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-violet?style=for-the-badge&logo=intellijidea&logoColor=white">
@@ -102,9 +102,9 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="https://ubuntu.com/download" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="https://www.microsoft.com/es-co/windows?r=1" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
 </p>
 
