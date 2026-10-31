@@ -77,6 +77,8 @@
 	<a href="#"><img alt="Susbtance painter" src="https://img.shields.io/badge/Substance%20Painter-red?style=for-the-badge&logo=susbtance%20painter&logoColor=white"></a>
   &emsp;
 	<a href="#"><img alt="Marmoset" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
+	&emsp;
+	<a href="#"><img alt="Photshop" src="https://img.shields.io/badge/Marmoset-white?style=for-the-badge&logo=Marmoset&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
   &emsp;
