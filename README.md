@@ -94,7 +94,7 @@
     <a href="#"><img alt="Net Beans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" /></a>
   &emsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank"> 
-     <img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-idea-violet">
+     <img alt="IntelliJ Idea" src="https://img.shields.io/badge/IntelliJ%20IDEA-violet?style=for-the-badge&logo=intellijidea&logoColor=white">
    </a>
 </p>
 
