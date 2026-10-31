@@ -57,8 +57,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://v2.tailwindcss.com/docs" target="_blank"> 
-     <img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <a href="https://www.thymeleaf.org/" target="_blank"> 
+     <img alt="Thymeleaf" src="https://img.shields.io/badge/thymeleaf-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
    </a>
 </p>
 
